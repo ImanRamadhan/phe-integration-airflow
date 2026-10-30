@@ -1,0 +1,4 @@
+# Abaikan folder logika bisnis dan utilitas agar tidak dipindai sebagai DAG
+.*/src/.*
+.*/common/.*
+.*__pycache__.*
